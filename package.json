@@ -16,5 +16,14 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "https://fwa53gundla.herokuapp.com --> this is my heroku app",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prudvi97/fwa53gundla.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prudvi97/fwa53gundla/issues"
+  },
+  "homepage": "https://github.com/Prudvi97/fwa53gundla#readme"
 }
